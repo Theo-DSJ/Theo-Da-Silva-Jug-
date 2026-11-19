@@ -1,0 +1,236 @@
+{
+ "lanes": [
+  {
+   "id": "phi",
+   "n": "Philosophie"
+  },
+  {
+   "id": "pra",
+   "n": "Pragmatique"
+  },
+  {
+   "id": "psy",
+   "n": "Psychologie"
+  },
+  {
+   "id": "his",
+   "n": "Historiographie"
+  }
+ ],
+ "ev": [
+  {
+   "id": "1",
+   "t": "Peirce, « commens »",
+   "y": 1906,
+   "y2": "",
+   "l": "phi",
+   "m": "commens",
+   "c": "Esprit commun formé par la communication de l’énonciateur et de l’interprète",
+   "s": "p",
+   "src": "Rapporté par Pietarinen ; date à vérifier",
+   "n": ""
+  },
+  {
+   "id": "2",
+   "t": "Grice, « Meaning »",
+   "y": 1957,
+   "y2": "",
+   "l": "phi",
+   "m": "",
+   "c": "Intention réflexive du locuteur",
+   "s": "v",
+   "src": "Philosophical Review 66(3)",
+   "n": ""
+  },
+  {
+   "id": "3",
+   "t": "Strawson, intention et convention",
+   "y": 1964,
+   "y2": "",
+   "l": "phi",
+   "m": "",
+   "c": "Objections à l’analyse gricéenne de la signification",
+   "s": "p",
+   "src": "De mémoire",
+   "n": ""
+  },
+  {
+   "id": "4",
+   "t": "Grice, William James Lectures",
+   "y": 1967,
+   "y2": "",
+   "l": "pra",
+   "m": "common ground status",
+   "c": "Statut de propositions, à propos des conditionnels indicatifs",
+   "s": "v",
+   "src": "Studies in the Way of Words, ch. 4",
+   "n": "Conférences de 1967, publiées en 1989 avec révisions de 1987 : dater l’occurrence dans les archives."
+  },
+  {
+   "id": "5",
+   "t": "Lewis, Convention",
+   "y": 1969,
+   "y2": "",
+   "l": "phi",
+   "m": "common knowledge",
+   "c": "Savoir commun fondé sur des raisons de croire itérées",
+   "s": "p",
+   "src": "De mémoire ; chercher « common ground » dans le texte",
+   "n": ""
+  },
+  {
+   "id": "6",
+   "t": "Schiffer, Meaning",
+   "y": 1972,
+   "y2": "",
+   "l": "phi",
+   "m": "mutual knowledge",
+   "c": "Savoir mutuel pour bloquer la régression",
+   "s": "p",
+   "src": "De mémoire",
+   "n": ""
+  },
+  {
+   "id": "7",
+   "t": "Grice, « Logic and Conversation »",
+   "y": 1975,
+   "y2": "",
+   "l": "pra",
+   "m": "",
+   "c": "Principe de coopération ; pas d’occurrence repérée",
+   "s": "p",
+   "src": "Syntax and Semantics 3 ; à contrôler",
+   "n": ""
+  },
+  {
+   "id": "8",
+   "t": "Stalnaker, « Assertion »",
+   "y": 1978,
+   "y2": "",
+   "l": "pra",
+   "m": "common ground",
+   "c": "Terrain commun défini à partir de la présupposition",
+   "s": "p",
+   "src": "Attribué par des sources secondaires",
+   "n": ""
+  },
+  {
+   "id": "9",
+   "t": "Clark et Marshall",
+   "y": 1981,
+   "y2": "",
+   "l": "psy",
+   "m": "mutual knowledge",
+   "c": "Référence définie et savoir mutuel",
+   "s": "p",
+   "src": "De mémoire",
+   "n": ""
+  },
+  {
+   "id": "10",
+   "t": "Clark et Brennan, grounding",
+   "y": 1991,
+   "y2": "",
+   "l": "psy",
+   "m": "common ground",
+   "c": "Terrain commun entretenu par le grounding",
+   "s": "p",
+   "src": "Cité par une source secondaire",
+   "n": ""
+  },
+  {
+   "id": "11",
+   "t": "Stalnaker, « Common Ground »",
+   "y": 2002,
+   "y2": "",
+   "l": "pra",
+   "m": "common ground",
+   "c": "Retour réflexif sur la notion",
+   "s": "v",
+   "src": "Linguistics and Philosophy",
+   "n": ""
+  },
+  {
+   "id": "12",
+   "t": "Pietarinen, Grice et Peirce",
+   "y": 2004,
+   "y2": "",
+   "l": "his",
+   "m": "common ground",
+   "c": "Filiation Peirce-Grice par analogie",
+   "s": "v",
+   "src": "« Grice in the Wake of Peirce »",
+   "n": ""
+  },
+  {
+   "id": "13",
+   "t": "Pietarinen, Signs of Logic ch. 12",
+   "y": 2006,
+   "y2": "",
+   "l": "his",
+   "m": "common ground",
+   "c": "Filiation Peirce-Grice et au-delà",
+   "s": "v",
+   "src": "Chapitre 12",
+   "n": ""
+  }
+ ],
+ "lk": [
+  {
+   "a": "1",
+   "b": "2",
+   "t": "attribution",
+   "s": "p",
+   "src": "Pietarinen 2004 : aucun lien documentaire établi à ma connaissance"
+  },
+  {
+   "a": "2",
+   "b": "6",
+   "t": "citation",
+   "s": "p",
+   "src": "De mémoire"
+  },
+  {
+   "a": "3",
+   "b": "6",
+   "t": "citation",
+   "s": "p",
+   "src": "De mémoire"
+  },
+  {
+   "a": "5",
+   "b": "6",
+   "t": "citation",
+   "s": "p",
+   "src": "De mémoire"
+  },
+  {
+   "a": "4",
+   "b": "8",
+   "t": "citation",
+   "s": "p",
+   "src": "Note de Stalnaker, d’après des sources secondaires"
+  },
+  {
+   "a": "6",
+   "b": "8",
+   "t": "citation",
+   "s": "p",
+   "src": "D’après des sources secondaires"
+  },
+  {
+   "a": "5",
+   "b": "8",
+   "t": "citation",
+   "s": "p",
+   "src": "D’après des sources secondaires"
+  },
+  {
+   "a": "5",
+   "b": "9",
+   "t": "citation",
+   "s": "p",
+   "src": "De mémoire"
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "sections": [
+  {
+   "titre": "Education",
+   "lignes": [
+    {
+     "date": "2026 – 2028",
+     "titre": "Master’s Degree in Language Sciences – Theoretical, Experimental and Computational Linguistics",
+     "detail": "Université Paris Cité"
+    },
+    {
+     "date": "2025 – 2026",
+     "titre": "Bachelor’s Degree (3rd year) in Language Sciences – Theoretical, Experimental and Computational Linguistics",
+     "detail": "Université Paris Cité. Coursework: Psycholinguistics (17.60/20), Experimental Phonetics (18/20), Semantics (16.6/20), Language Acquisition (18/20)."
+    },
+    {
+     "date": "2022 – 2025",
+     "titre": "Double Bachelor’s Degree in Philosophy & Psychology",
+     "detail": "Institut de Philosophie et de Psychologie Comparée. Coursework: Cognitive Psychology (17.68/20), Cognitive Neuropsychology (17.50/20), Inferential Statistics (17.75/20), Opinion, Belief and Intergroup Relations (15/20)."
+    }
+   ]
+  },
+  {
+   "titre": "Research experiences",
+   "lignes": [
+    {
+     "date": "2026",
+     "titre": "Research Assistant – Experimental Pragmatics",
+     "detail": "Laboratoire de Linguistique Formelle (LLF), Université Paris Cité. Supervisor: Lisa Brunetti. Participant recruitment, data collection and experiment administration; contribution to theoretical discussions in experimental pragmatics."
+    },
+    {
+     "date": "2026 (upcoming)",
+     "titre": "Research Assistant – Experimental Phonetics",
+     "detail": "Laboratoire de Linguistique Formelle (LLF), Université Paris Cité. Supervisor: Patricia Camus. Acoustic analysis (Elan); processing and analysis of phonetic data (Tagalog)."
+    },
+    {
+     "date": "2025",
+     "titre": "Research Assistant – AI Cognition",
+     "detail": "Néocognition. Research writing and documentation (Overleaf, TextMaker); compilation of bibliographic corpora."
+    },
+    {
+     "date": "2024",
+     "titre": "Observational Internship – Schizophrenia Expert Center",
+     "detail": "Hôpital Chenevier. Observation of patient care practices; insight into the medical research environment."
+    }
+   ]
+  },
+  {
+   "titre": "Supervised research projects (undergraduate)",
+   "lignes": [
+    {
+     "date": "Epistemology",
+     "titre": "Is Scientific Knowledge Objective?",
+     "detail": "Supervisor: Emmanuel Brochier. Final grade: 15/20. Bibliography; theoretical work in epistemology of cognitive science."
+    },
+    {
+     "date": "Cognitive Psychology",
+     "titre": "Do Our Emotions Mislead Us?",
+     "detail": "Supervisor: Béatrice Geyres. Final grade: 18/20. Quantitative methods applied to experimental data; theoretical work on social cognition and cognitive biases."
+    },
+    {
+     "date": "Moral Philosophy",
+     "titre": "Responsibility faces Persuasive Discourse",
+     "detail": "Supervisor: Antoine Gazeaud. Final grade: 12.5/20. Theoretical work in cognitive science and moral philosophy; research methodology in philosophy."
+    }
+   ]
+  },
+  {
+   "titre": "Methodological skills",
+   "lignes": [
+    {
+     "date": "Methods",
+     "titre": "Behavioral methods and experimental paradigms in psycholinguistics",
+     "detail": "Lexical acceptability, priming, etc. Statistical analysis (intermediate level); introduction to cognitive modeling."
+    },
+    {
+     "date": "Tools",
+     "titre": "R, Praat, Python (undergraduate level)",
+     "detail": "Elan and LaTeX (research internship); Zotero (research projects)."
+    }
+   ]
+  },
+  {
+   "titre": "Teaching",
+   "lignes": [
+    {
+     "date": "2025 – present",
+     "titre": "Private French and Philosophy Tutor (Acadomia)",
+     "detail": "High school level."
+    },
+    {
+     "date": "2024 – 2025",
+     "titre": "Teaching Assistant (IPC)",
+     "detail": "First-year: Cognitive Psychology, Neurobiology, Epistemology (semester 1); Epistemology (semester 2)."
+    }
+   ]
+  },
+  {
+   "titre": "Languages",
+   "lignes": [
+    {
+     "date": "French",
+     "titre": "Native",
+     "detail": ""
+    },
+    {
+     "date": "English",
+     "titre": "Reading academic theoretical articles; attending university lectures",
+     "detail": ""
+    },
+    {
+     "date": "Japanese",
+     "titre": "JLPT N4",
+     "detail": ""
+    }
+   ]
+  },
+  {
+   "titre": "Research interests",
+   "lignes": [
+    {
+     "date": "",
+     "titre": "Online processing of linguistic implicatures (presuppositions, implicatures)",
+     "detail": ""
+    },
+    {
+     "date": "",
+     "titre": "Semantic and pragmatic integration in discourse context",
+     "detail": ""
+    },
+    {
+     "date": "",
+     "titre": "Common ground dynamics and discourse representation",
+     "detail": ""
+    },
+    {
+     "date": "",
+     "titre": "Neurophysiological correlates of language comprehension (EEG/ERP, N400)",
+     "detail": ""
+    },
+    {
+     "date": "",
+     "titre": "Interfaces between theoretical linguistics, psycholinguistics, and cognitive neuroscience",
+     "detail": ""
+    }
+   ]
+  }
+ ]
+}
